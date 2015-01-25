@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.QuadraticEquation", "QuadraticEquation\06.QuadraticEquation.csproj", "{A35FAF1D-8E05-4F96-BC12-4B8FDE0B2D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOf5Numbers", "SumOf5Numbers\SumOf5Numbers.csproj", "{824D0110-172E-47DF-82D9-01EF4B4E9656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.FibonacciNumbers", "FibonacciNumbers\10.FibonacciNumbers.csproj", "{A63451D1-71FC-4B23-8E1A-5C6968DE0E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A35FAF1D-8E05-4F96-BC12-4B8FDE0B2D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35FAF1D-8E05-4F96-BC12-4B8FDE0B2D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35FAF1D-8E05-4F96-BC12-4B8FDE0B2D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35FAF1D-8E05-4F96-BC12-4B8FDE0B2D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824D0110-172E-47DF-82D9-01EF4B4E9656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824D0110-172E-47DF-82D9-01EF4B4E9656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824D0110-172E-47DF-82D9-01EF4B4E9656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824D0110-172E-47DF-82D9-01EF4B4E9656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63451D1-71FC-4B23-8E1A-5C6968DE0E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63451D1-71FC-4B23-8E1A-5C6968DE0E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63451D1-71FC-4B23-8E1A-5C6968DE0E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63451D1-71FC-4B23-8E1A-5C6968DE0E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
