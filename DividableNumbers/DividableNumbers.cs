@@ -14,7 +14,7 @@ class DividableNumbers
         Console.Write("Write a number: ");
         int endNumber = int.Parse(Console.ReadLine());
         int p = 0; // Counts how many numbers are dividable with 5 without a remainder
-        Console.WriteLine("The dividable numbers by 5 with remainder of 0 between {0} and {1} are: ", startNumber, endNumber);
+        Console.WriteLine("The dividable numbers by 5 by remainder of 0 between {0} and {1} are: ", startNumber, endNumber);
         for (int i = startNumber; i <= endNumber; i++)
         {
             if (i % 5 == 0)
