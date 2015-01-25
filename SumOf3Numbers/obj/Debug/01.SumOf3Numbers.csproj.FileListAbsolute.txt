@@ -1,0 +1,5 @@
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

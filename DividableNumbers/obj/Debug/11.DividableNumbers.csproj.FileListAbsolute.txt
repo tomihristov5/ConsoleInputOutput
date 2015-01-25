@@ -1,0 +1,5 @@
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\DividableNumbers\bin\Debug\DividableNumbers.exe.config
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\DividableNumbers\bin\Debug\DividableNumbers.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\DividableNumbers\bin\Debug\DividableNumbers.pdb
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\DividableNumbers\obj\Debug\DividableNumbers.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\DividableNumbers\obj\Debug\DividableNumbers.pdb

@@ -8,6 +8,7 @@ class QuadraticEquation
 {
     static void Main()
     {
+        Console.ForegroundColor = ConsoleColor.Blue;
         Console.Write("Enter a: ");
         int a = int.Parse(Console.ReadLine());
         Console.Write("Enter b: ");

@@ -8,6 +8,7 @@ class FibonacciNumbers
 {
     static void Main()
     {
+        Console.ForegroundColor = ConsoleColor.Blue;
         Console.Write("Enter a number: ");
         int n = int.Parse(Console.ReadLine());
         int a = 0;

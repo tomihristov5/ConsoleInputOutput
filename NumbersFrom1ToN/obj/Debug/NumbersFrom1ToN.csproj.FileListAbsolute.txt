@@ -1,0 +1,1 @@
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config

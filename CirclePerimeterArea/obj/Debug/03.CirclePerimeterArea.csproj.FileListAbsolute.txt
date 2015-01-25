@@ -1,0 +1,5 @@
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe.config
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.pdb
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.pdb
